@@ -76,9 +76,9 @@ alt="Top Languages"/>
 
 ## 🚀 Currently
 
-- 🔭 Building AI & Data Engineering projects
-- 🌱 Learning LangGraph & Advanced LLM Engineering
-- 📚 Researching Radar-Based Object Detection
+- 🔭 Building AI & Data Engineering Real World Projects for social and economical Imapct
+- 🌱 Learning LangGraph,Advanced LLM Engineering  & Modern TechStack for Data Engineering and ML Engineering Field 
+- 📚 Researching GNN, Explainable AI, Integration of AI and ML in Pharmacology and Health Sector, Radar-Based Object Detection
 - 🤝 Open to collaboration on AI, ML, Data Engineering, and IoT
 
 <h3 align="center">
