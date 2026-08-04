@@ -35,3 +35,61 @@ alt="Top Languages"/>
     src="https://raw.githubusercontent.com/Manish-Tiwari007/Manish-Tiwari007/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Manish+Kumar+Tiwari;Data+Engineer;Machine+Learning+Engineer;Masters+Student+in+Data+Science;Building+AI+•+Researching+•+Learning+Everyday" alt="Typing SVG" />
+</p>
+
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manish-kumar-tiwari-9844bb263">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Manish-Tiwari007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-10B981?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Manish-Tiwari007&label=Profile%20Views&color=0891B2&style=for-the-badge"/>
+
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manish-Tiwari007&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,dotnet,php,laravel,mysql,postgres,mongodb,git,github,vscode,pytorch,tensorflow,opencv,linux,docker,aws&perline=9"/>
+
+</p>
+
+## 🚀 Currently
+
+- 🔭 Building AI & Data Engineering projects
+- 🌱 Learning LangGraph & Advanced LLM Engineering
+- 📚 Researching Radar-Based Object Detection
+- 🤝 Open to collaboration on AI, ML, Data Engineering, and IoT
+
+<h3 align="center">
+
+"Code. Learn. Build. Repeat."
+
+</h3>
