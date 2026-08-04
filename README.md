@@ -64,13 +64,6 @@ alt="Top Languages"/>
 
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manish-Tiwari007&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
 
 
 <h2 align="center">⚙️ Tech Stack</h2>
